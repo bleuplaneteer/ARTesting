@@ -2394,16 +2394,16 @@
   ],
   "images": [
     {
-      "uri": "textures/Baked_Drive_Sec_baseColor.png"
+      "uri": "https://github.com/bleuplaneteer/ARTesting/blob/main/uss_enterprise_d_star_trek_tng/textures/Baked_Drive_Sec_baseColor.png"
     },
     {
-      "uri": "textures/Baked_Nacelles_baseColor.png"
+      "uri": "https://github.com/bleuplaneteer/ARTesting/blob/main/uss_enterprise_d_star_trek_tng/textures/Baked_Nacelles_baseColor.png"
     },
     {
-      "uri": "textures/Bake_Aux_baseColor.png"
+      "uri": "https://github.com/bleuplaneteer/ARTesting/blob/main/uss_enterprise_d_star_trek_tng/textures/Bake_Aux_baseColor.png"
     },
     {
-      "uri": "textures/Baked_Saucer_Sec_baseColor.png"
+      "uri": "https://github.com/bleuplaneteer/ARTesting/blob/main/uss_enterprise_d_star_trek_tng/textures/Baked_Saucer_Sec_baseColor.png"
     }
   ],
   "materials": [
