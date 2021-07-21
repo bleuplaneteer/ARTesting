@@ -129,7 +129,7 @@
   ],
   "images": [
     {
-      "uri": "ARTesting/cat/textures/catr_baseColor.jpg"
+      "uri": "/textures/catr_baseColor.jpg"
     }
   ],
   "materials": [
